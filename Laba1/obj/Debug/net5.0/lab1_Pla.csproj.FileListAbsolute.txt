@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\3\bin\Debug\net5.0\lab1_Pla.exe
+C:\Users\user\Desktop\3\bin\Debug\net5.0\lab1_Pla.deps.json
+C:\Users\user\Desktop\3\bin\Debug\net5.0\lab1_Pla.runtimeconfig.json
+C:\Users\user\Desktop\3\bin\Debug\net5.0\lab1_Pla.runtimeconfig.dev.json
+C:\Users\user\Desktop\3\bin\Debug\net5.0\lab1_Pla.dll
+C:\Users\user\Desktop\3\bin\Debug\net5.0\lab1_Pla.pdb
+C:\Users\user\Desktop\3\obj\Debug\net5.0\lab1_Pla.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\3\obj\Debug\net5.0\lab1_Pla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\3\obj\Debug\net5.0\lab1_Pla.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\3\obj\Debug\net5.0\lab1_Pla.AssemblyInfo.cs
+C:\Users\user\Desktop\3\obj\Debug\net5.0\lab1_Pla.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3\obj\Debug\net5.0\lab1_Pla.dll
+C:\Users\user\Desktop\3\obj\Debug\net5.0\refint\lab1_Pla.dll
+C:\Users\user\Desktop\3\obj\Debug\net5.0\lab1_Pla.pdb
+C:\Users\user\Desktop\3\obj\Debug\net5.0\lab1_Pla.genruntimeconfig.cache
+C:\Users\user\Desktop\3\obj\Debug\net5.0\ref\lab1_Pla.dll
